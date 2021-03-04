@@ -1,8 +1,8 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-ff833b?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-ffd736?style=flat-square&logo=Javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-786b36?style=flat-square&logo=C&logoColor=white"/></a>
 <!--
 **Park-Ji-Yoon/Park-Ji-Yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
