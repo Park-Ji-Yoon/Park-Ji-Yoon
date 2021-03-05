@@ -4,7 +4,7 @@
 <a href="https://www.notion.so/I-m-Park-Ji-Yoon-c9cbd31ef0af4babb8faf70fdd3665ab"><img src="https://img.shields.io/badge/Notion-ff6694?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/iambatyoon@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-Ji-Yoon)](https://github.com/Park-Ji-Yoon)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-Ji-Yoon&show_icons=true&theme=buefy)](https://github.com/Park-Ji-Yoon)
 
 
 <!--
