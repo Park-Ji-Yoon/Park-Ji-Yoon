@@ -6,7 +6,7 @@
 <a><img src="https://img.shields.io/badge/imparkjiyoon@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
 <a href="https://jiyoons-learning-diary.tistory.com/" style="text-decoration:none; color:black;">[Tistory] Learning Diary</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-Ji-Yoon&show_icons=true&theme=buefy)](https://github.com/Park-Ji-Yoon)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-Ji-Yoon&show_icons=true&theme=buefy&hide=stars)](https://github.com/Park-Ji-Yoon)
 
 
 
