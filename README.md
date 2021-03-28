@@ -2,9 +2,9 @@
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) -->
 
 <a href="https://www.notion.so/I-m-Park-Ji-Yoon-c9cbd31ef0af4babb8faf70fdd3665ab" target="_blank"><img src="https://img.shields.io/badge/Notion-ff6694?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/iambatyoon@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/imparkjiyoon@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
-<a href="https://jiyoons-learning-diary.tistory.com/" style="text-decoration:none; color:black;">[Tistory] Learning Diary</a>
+<a href="https://jiyoons-learning-diary.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-240b09"/></a>
+<!--<a><img src="https://img.shields.io/badge/iambatyoon@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a>-->
+<a><img src="https://img.shields.io/badge/imparkjiyoon@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-Ji-Yoon&show_icons=true&theme=buefy&hide=stars)](https://github.com/Park-Ji-Yoon)
 
