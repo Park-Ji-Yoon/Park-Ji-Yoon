@@ -5,8 +5,16 @@
 <a href="https://jiyoons-learning-diary.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-240b09"/></a>
 <a><img src="https://img.shields.io/badge/imparkjiyoon@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a>
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=F56073&height=180&section=header&text=Jiyoon-Park&fontColor=361519&20render&fontSize=65&animation=fadeIn&fontAlignY=38)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Jiyoon-Park&fontColor=FFFFFF&20render&fontSize=65&animation=fadeIn&fontAlignY=38)
+<
+<p align="center">
+    👩🏻‍💻 I'm a student developer. <br>
+    🔍 I like to challenge and learn new things. <br>
+    🖥 I am very interested in web and app technology. <br>
+    🌳 I'm growing up through constant effort. <br>
+    👇 For more information, please see below.
+ </p>
+<br><br>
 <p align="center">
   <strong>Contact📞</strong>
   <br> <br>
@@ -39,14 +47,8 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
 </p>
  <br> <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-Ji-Yoon&show_icons=true&theme=buefy&hide=stars)](https://github.com/Park-Ji-Yoon)
-
-
+ 
+ ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=footer&fontColor=361519&20render&fontSize=65&animation=fadeIn&fontAlignY=38)
+ 
 <!--
-**Park-Ji-Yoon/Park-Ji-Yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-ff833b?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-ffd736?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-786b36?style=flat-square&logo=C&logoColor=white"/></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-Ji-Yoon&show_icons=true&theme=buefy&hide=stars)](https://github.com/Park-Ji-Yoon)-->
