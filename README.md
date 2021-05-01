@@ -18,7 +18,7 @@
 <p align="center">
   <strong>Contact📞</strong>
   <br> <br>
-  <a href="https://bit.ly/mkNotion"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://bit.ly/mkNotion"/></a>
+  <a href="https://www.notion.so/Page-Jiyoon-Park-58b52eae9f9d47029a997bc152125186"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://bit.ly/mkNotion"/></a>
   <a href="https://jiyoons-learning-diary.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-F5306E"/></a>
   <a href="imparkjiyoon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mingyg.kim@gmail.com"/></a>
 </p> <br>
