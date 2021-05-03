@@ -5,7 +5,7 @@
 <a href="https://jiyoons-learning-diary.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-240b09"/></a>
 <a><img src="https://img.shields.io/badge/imparkjiyoon@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a>
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=230&section=header&text=Jiyoon-Park&fontColor=FFFFFF&20render&fontSize=50&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=140&section=header&text=Jiyoon-Park&fontColor=000000&20render&fontSize=55&animation=fadeIn&fontAlignY=38)
 <p align="center">
     👩🏻‍💻 I'm a student developer. <br>
     🔍 I like to challenge and learn new things. <br>
