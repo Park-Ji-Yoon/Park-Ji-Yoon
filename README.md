@@ -7,7 +7,7 @@
 -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=140&section=header&text=Jiyoon-Park&fontColor=000000&20render&fontSize=55&animation=fadeIn&fontAlignY=38)
 <p align="center">
-    👩🏻‍💻 I'm a student developer. <br>
+    👩🏻‍💻 developer. <br>
     🔍 I like to challenge and learn new things. <br>
     🖥 I am very interested in web and app technology. <br>
     🌳 I'm growing up through constant effort. <br>
