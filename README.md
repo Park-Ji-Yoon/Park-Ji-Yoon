@@ -46,6 +46,3 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
 </p>
  <br> <br>
-  
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-Ji-Yoon&show_icons=true&theme=buefy&hide=stars)](https://github.com/Park-Ji-Yoon)-->
