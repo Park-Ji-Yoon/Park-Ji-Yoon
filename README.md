@@ -44,5 +44,6 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/csharp-8622D4?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Linux-f5931b?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
 </p>
  <br> <br>
