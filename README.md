@@ -7,14 +7,7 @@
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=140&section=header&text=Jiyoon-Park&fontColor=000000&20render&fontSize=55&animation=fadeIn&fontAlignY=38)
-<p align="center">
-    👩🏻‍💻 developer. <br>
-    🔍 I like to challenge and learn new things. <br>
-    🖥 I am very interested in web and app technology. <br>
-    🌳 I'm growing up through constant effort. <br>
-    👇 For more information, please see below.
- </p>
-<br><br>
+<br>
 <p align="center">
   <strong>Contact📞</strong>
   <br> <br>
@@ -47,4 +40,3 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Linux-f5931b?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
 </p>
- <br> <br>
