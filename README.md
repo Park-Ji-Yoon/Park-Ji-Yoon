@@ -1,16 +1,9 @@
 <!--## Hello, there👋 I'm Jiyoon Park-->
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) -->
 <!--
-<a><img src="https://img.shields.io/badge/imparkjiyoon@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a>
 -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=140&section=header&text=Jiyoon-Park&fontColor=000000&20render&fontSize=55&animation=fadeIn&fontAlignY=38)
 <br>
-<p align="center">
-  <strong>Contact📞</strong>
-  <a href="https://jiyoons-learning-diary.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-F5306E"/></a>
-  <a href="imparkjiyoon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mingyg.kim@gmail.com"/></a>
-</p> <br>
-
 <p align="center">
   <strong>Skills💻</strong>
   <br> <br>
