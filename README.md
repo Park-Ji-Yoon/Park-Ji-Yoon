@@ -1,8 +1,6 @@
 <!--## Hello, there👋 I'm Jiyoon Park-->
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) -->
 <!--
-<a href="https://www.notion.so/Page-Jiyoon-Park-58b52eae9f9d47029a997bc152125186" target="_blank"><img src="https://img.shields.io/badge/Notion-ff6694?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://jiyoons-learning-diary.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-240b09"/></a>
 <a><img src="https://img.shields.io/badge/imparkjiyoon@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a>
 -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=140&section=header&text=Jiyoon-Park&fontColor=000000&20render&fontSize=55&animation=fadeIn&fontAlignY=38)
